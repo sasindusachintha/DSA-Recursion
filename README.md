@@ -21,17 +21,17 @@ Recursion-Practice/
 - Prepare for coding interviews and DSA
 
 ## 🛠️ Requirements
-- C++17 or above
+- Any java compiler for java files
 - Any C++ compiler (g++, MinGW, Dev-C++, VS Code, etc.)
 
 ## ▶️ How to Run
-```bash
+
  factorial.cpp -o run
 ./run
-⭐ Contributions
-More problems will be added continuously.
-Feel free to fork and contribute!
+## ⭐ Contributions
+- More problems will be added continuously.
+- Feel free to fork and contribute!
 
-📩 Contact
-Created by Sasindu Sachintha
-Open for suggestions & improvements!
+## 📩 Contact
+- Created by Sasindu Sachintha
+- Open for suggestions & improvements!
