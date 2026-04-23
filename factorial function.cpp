@@ -14,8 +14,8 @@ int factorial(int n) {
 }
 
 int main() {
-    int num = 5; // Number to calculate factorial
-    cout << num << "! = " << factorial(num) << endl; // Print factorial
+    int num=5; // Number to calculate factorial
+    cout<<num<<"! = "<<factorial(num)<<endl; // Print factorial
     return 0;
 }
 
